@@ -1,4 +1,4 @@
-# Bash Script
+# Bash Project
 
 **This project contain directories of files, and those files contains command line used for scripting in the bash CLI.**
 
