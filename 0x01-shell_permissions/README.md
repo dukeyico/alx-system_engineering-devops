@@ -20,13 +20,16 @@
 - **Owner: no permission at all**
 - **Group: no permission at all**
 - **Other users: all the permissions**
+
 [8-James_Bond](https://github.com/dukeyico/alx-system_engineering-devops/blob/master/0x01-shell_permissions/8-James_Bond)
 ## This is a script that sets the mode of the file hello to this:
 -rwxr-x-wx 1 julien julien 23 Sep 20 14:25 hello
+
 [9-John_Doe](https://github.com/dukeyico/alx-system_engineering-devops/blob/master/0x01-shell_permissions/9-John_Doe)
 ## This is a script that sets the mode of the file hello the same as olleh’s mode.
 - **The file hello will be in the working directory**
 - **The file olleh will be in the working directory**
+
 [10-mirror_permissions](https://github.com/dukeyico/alx-system_engineering-devops/blob/master/0x01-shell_permissions/10-mirror_permissions)
 ## This is a script that creates a directory called my_dir with permissions 751 in the working directory.
 [11-directories_permissions](https://github.com/dukeyico/alx-system_engineering-devops/blob/master/0x01-shell_permissions/11-directories_permissions)
